@@ -6,7 +6,7 @@ export default function About() {
 				<div className="container-fluid">
 					<div className="row">
 						<div className="col-md-5">
-							<img src={edu} alt="" style={{width: '40em'}} />
+							<img src={edu} alt="" style={{width: '600px'}} />
 						</div>
 						<div className="col-md-7">
 							<h1>About Me</h1>
